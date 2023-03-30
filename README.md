@@ -66,10 +66,7 @@ httpd.serve_forever()
 
 ##CLIENT OUTPUT
 
-
-![web clien output](https://user-images.githubusercontent.com/119559316/228832244-3af7c5b7-e260-47e8-8ae0-3ae577cc5f9a.png)
-
-
+![CLIENT WEB](https://user-images.githubusercontent.com/119559316/228832895-919c22cf-4088-455a-a96d-f574e0fb2f44.png)
 
 ## RESULT:
 The program is executed succesfully
